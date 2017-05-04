@@ -2,6 +2,7 @@
 layout          : blocks/page-participant
 title           : Lucas Ferreira
 type            : participant
+time            : vacation
 job-title       : Unit Head
 travel-from     : Vienna
 expenses        : owasp
